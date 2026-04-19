@@ -168,7 +168,7 @@ Raw Input Data / Synthetic Transactions
 
 ## Insights
 ⚙️ Installation
-git clone 
+git clone https://github.com/challakishore-dev/Expense-Tracker-App.git
 cd expense-tracker-app
 pip install -r requirements.txt
 # ▶️ Usage
