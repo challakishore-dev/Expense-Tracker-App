@@ -120,7 +120,6 @@ Built an interactive **Expense Tracker App** that:
 
 
 ---
-
 # 🏗 System Architecture
 
 ```text
@@ -151,8 +150,9 @@ Expense-Tracker-App/
 │── requirements.txt
 │── README.md
 
-📸 Screenshots
 
+
+📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/850ac957-03d3-4346-9634-25a9359b8621" />
 
 ## Dashboard
@@ -171,94 +171,3 @@ Expense-Tracker-App/
 <img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/b981094f-344d-4258-adab-f1dea7daaaf5" />
 
 ## Insights
-
-⚙️ Installation
-git clone https://github.com/yourusername/expense-tracker-data-science.git
-cd expense-tracker-data-science
-pip install -r requirements.txt
-
-▶️ Usage
-Run Analytics Script
-python main.py
-Launch Dashboard
-streamlit run app.py
-📌 Insights Generated
-
-Examples:
-
-Rent consumes highest monthly share
-Food spending spikes on weekends
-Seasonal shopping increase detected
-3 months crossed budget threshold
-UPI used most frequently
-
-💼 Business Impact
-
-This type of solution is useful for:
-
-FinTech Apps
-
-Budgeting & personal finance tools
-
-Startups / SMEs
-
-Operational expense monitoring
-
-Banks
-
-Spend intelligence dashboards
-
-Enterprises
-
-Employee reimbursements & reporting
-
-🧩 Challenges Solved
-Generated synthetic realistic transaction data
-Cleaned inconsistent records
-Built reusable analysis pipeline
-Converted raw data into executive-level visuals
-Designed recruiter-friendly documentation
-
-🔮 Future Enhancements
-Bank API integration
-OCR receipt scanning
-AI spending prediction
-Goal-based savings tracker
-Mobile app version
-SQL backend
-Power BI enterprise dashboard
-
-⭐ Why This Project Matters
-
-This is not just a student project.
-
-It demonstrates ability to:
-
-Solve real business problems
-Work with structured datasets
-Build dashboards
-Communicate insights
-Ship polished software
-Use GitHub professionally
-
-These are the same signals recruiters look for.
-
-📈 Resume Value
-
-Strong fit for:
-
-Data Analyst
-Business Analyst
-Financial Analyst
-Python Developer
-Product Analyst
-🤝 Author
-
-**Challa Kishore
-Aspiring Data Analyst / Data Scientist
-
-GitHub: https://github.com/challakishore-dev
-LinkedIn: https://linkedin.com/in/challa-kishore-a817552b4
-
-🌟 If You Like This Project
- Give it a ⭐ on GitHub
