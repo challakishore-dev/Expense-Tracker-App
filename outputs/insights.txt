@@ -1,0 +1,14 @@
+Highest spending category: Rent
+Months over budget:
+Month 1: 117595
+Month 2: 113550
+Month 3: 124543
+Month 4: 135683
+Month 5: 82769
+Month 6: 115144
+Month 7: 72396
+Month 8: 101781
+Month 9: 110650
+Month 10: 142222
+Month 11: 97688
+Month 12: 167442
